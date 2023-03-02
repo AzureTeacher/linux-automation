@@ -1,2 +1,2 @@
-# comptia-automation
-Used on my Comptia Linux+ course Automation Section
+# Lunx Automation
+Linux Automation with three different distributions (Ubuntu, openSUSE and Red Hat)!
